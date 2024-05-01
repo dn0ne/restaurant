@@ -50,7 +50,7 @@ nav .nav-link.active {
 header {
     background-color: rgba(33, 37, 41, 0.8);
     background-blend-mode: multiply;
-    background-image: url(/images/bg-hero.jpg);
+    background-image: url(images/bg-hero.jpg);
     background-position-x: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -141,7 +141,7 @@ header {
 }
 
 #img-booking {
-    background-image: url(/images/couple.jpg);
+    background-image: url(images/couple.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-clip: padding-box;
